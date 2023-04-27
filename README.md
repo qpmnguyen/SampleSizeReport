@@ -9,7 +9,7 @@ This is a package that simplifies the approaches used to generate reports (table
 - [ ] This object can then be dispatched to functions corresponding to the requirements, mainly [`presize` package](https://ctu-bern.github.io/presize/),
     and `pwr`, and generate an output that is also a S3/S4/R7 object.  
 - [ ] Plotting, Reporting, and Table methods can then be written to generate reports.  
-- [ ] RShiny shells based on the output object.  
+- [ ] Instead of using Rshiny shells, use static reactable (see [forestly](https://elong0527.github.io/forestly/articles/forestly.html))   
 
 ## Additional considerations 
 
